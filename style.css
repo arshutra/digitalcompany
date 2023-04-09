@@ -869,25 +869,25 @@ button {
     width: 300px;
    }
     .homepage{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_2{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_3{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_4{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_5{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_6{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_7{
-    width: 100vw;
+    overflow-x:hidden;
 }
    
     
@@ -921,26 +921,26 @@ button {
     margin-left: 20px;
    }
 
-    .homepage{
-    width: 100vw;
+     .homepage{
+    overflow-x:hidden;
 }
 .homepage_2{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_3{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_4{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_5{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_6{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_7{
-    width: 100vw;
+    overflow-x:hidden;
 }
     
    .logo{
@@ -972,29 +972,26 @@ button {
     font-size: 70px;
     margin-left: 20px;
    }
-   .homepage>img{
-    width: 200px;
-   }
-.homepage{
-    width: 100vw;
+   .homepage{
+    overflow-x:hidden;
 }
 .homepage_2{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_3{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_4{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_5{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_6{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_7{
-    width: 100vw;
+    overflow-x:hidden;
 }
    
 
@@ -1013,10 +1010,6 @@ button {
    .testimonial-container{
     width: 750px;
    }
-    body{
-        overflow-x:hidden;
-    }
-  
 }
 @media screen and (max-width: 700px) {
    .homepage>h1{
@@ -1027,28 +1020,27 @@ button {
     width: 200px;
    }
 
-.homepage{
-    width: 100vw;
+ .homepage{
+    overflow-x:hidden;
 }
 .homepage_2{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_3{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_4{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_5{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_6{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_7{
-    width: 100vw;
+    overflow-x:hidden;
 }
-
    #img_1{
     width: 700px;
    }
@@ -1087,26 +1079,26 @@ button {
     .next_arrow{
      display: none;
     }
-    .homepage{
-    width: 100vw;
+   .homepage{
+    overflow-x:hidden;
 }
 .homepage_2{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_3{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_4{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_5{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_6{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_7{
-    width: 100vw;
+    overflow-x:hidden;
 }
  
     .rotate{
@@ -1139,26 +1131,26 @@ button {
         width: 490px;
     }
 
-    .homepage{
-    width: 100vw;
+  .homepage{
+    overflow-x:hidden;
 }
 .homepage_2{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_3{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_4{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_5{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_6{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_7{
-    width: 100vw;
+    overflow-x:hidden;
 }
     footer{
         padding: 30px;
@@ -1187,25 +1179,25 @@ button {
         width: 490px;
     }
     .homepage{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_2{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_3{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_4{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_5{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_6{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_7{
-    width: 100vw;
+    overflow-x:hidden;
 }
     
     footer{
@@ -1230,26 +1222,26 @@ button {
     .testimonial-container{
         width: 400px;
     }
-    .homepage{
-    width: 100vw;
+   .homepage{
+    overflow-x:hidden;
 }
 .homepage_2{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_3{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_4{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_5{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_6{
-    width: 100vw;
+    overflow-x:hidden;
 }
 .homepage_7{
-    width: 100vw;
+    overflow-x:hidden;
 }
 
     .logo{
