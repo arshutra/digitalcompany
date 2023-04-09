@@ -1213,6 +1213,7 @@ button {
 @media screen and (max-width: 433px) {
     
     body{
+        width:433px;
         overflow-x:hidden;
     }
     .homepage>h1{
@@ -1223,24 +1224,30 @@ button {
         width: 400px;
     }
    .homepage{
+       width:433px;
     overflow-x:hidden;
 }
 .homepage_2{
+    width:433px;
     overflow-x:hidden;
 }
 .homepage_3{
     overflow-x:hidden;
 }
 .homepage_4{
+    width:433px;
     overflow-x:hidden;
 }
 .homepage_5{
+    width:433px;
     overflow-x:hidden;
 }
 .homepage_6{
+    width:433px;
     overflow-x:hidden;
 }
 .homepage_7{
+    width:433px;
     overflow-x:hidden;
 }
 
