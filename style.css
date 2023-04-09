@@ -868,6 +868,29 @@ button {
    .homepage>img{
     width: 300px;
    }
+    .homepage{
+    width: 100vw;
+}
+.homepage_2{
+    width: 100vw;
+}
+.homepage_3{
+    width: 100vw;
+}
+.homepage_4{
+    width: 100vw;
+}
+.homepage_5{
+    width: 100vw;
+}
+.homepage_6{
+    width: 100vw;
+}
+.homepage_7{
+    width: 100vw;
+}
+   
+    
    
    .next_arrow{
     position: absolute;
@@ -898,6 +921,28 @@ button {
     margin-left: 20px;
    }
 
+    .homepage{
+    width: 100vw;
+}
+.homepage_2{
+    width: 100vw;
+}
+.homepage_3{
+    width: 100vw;
+}
+.homepage_4{
+    width: 100vw;
+}
+.homepage_5{
+    width: 100vw;
+}
+.homepage_6{
+    width: 100vw;
+}
+.homepage_7{
+    width: 100vw;
+}
+    
    .logo{
     margin-left: -50%;
 }
@@ -930,7 +975,27 @@ button {
    .homepage>img{
     width: 200px;
    }
-
+.homepage{
+    width: 100vw;
+}
+.homepage_2{
+    width: 100vw;
+}
+.homepage_3{
+    width: 100vw;
+}
+.homepage_4{
+    width: 100vw;
+}
+.homepage_5{
+    width: 100vw;
+}
+.homepage_6{
+    width: 100vw;
+}
+.homepage_7{
+    width: 100vw;
+}
    
 
 
@@ -962,7 +1027,27 @@ button {
     width: 200px;
    }
 
-
+.homepage{
+    width: 100vw;
+}
+.homepage_2{
+    width: 100vw;
+}
+.homepage_3{
+    width: 100vw;
+}
+.homepage_4{
+    width: 100vw;
+}
+.homepage_5{
+    width: 100vw;
+}
+.homepage_6{
+    width: 100vw;
+}
+.homepage_7{
+    width: 100vw;
+}
 
    #img_1{
     width: 700px;
@@ -1002,6 +1087,27 @@ button {
     .next_arrow{
      display: none;
     }
+    .homepage{
+    width: 100vw;
+}
+.homepage_2{
+    width: 100vw;
+}
+.homepage_3{
+    width: 100vw;
+}
+.homepage_4{
+    width: 100vw;
+}
+.homepage_5{
+    width: 100vw;
+}
+.homepage_6{
+    width: 100vw;
+}
+.homepage_7{
+    width: 100vw;
+}
  
     .rotate{
      display: none;
@@ -1033,6 +1139,27 @@ button {
         width: 490px;
     }
 
+    .homepage{
+    width: 100vw;
+}
+.homepage_2{
+    width: 100vw;
+}
+.homepage_3{
+    width: 100vw;
+}
+.homepage_4{
+    width: 100vw;
+}
+.homepage_5{
+    width: 100vw;
+}
+.homepage_6{
+    width: 100vw;
+}
+.homepage_7{
+    width: 100vw;
+}
     footer{
         padding: 30px;
         flex-wrap: wrap;
@@ -1059,6 +1186,27 @@ button {
     .testimonial-container{
         width: 490px;
     }
+    .homepage{
+    width: 100vw;
+}
+.homepage_2{
+    width: 100vw;
+}
+.homepage_3{
+    width: 100vw;
+}
+.homepage_4{
+    width: 100vw;
+}
+.homepage_5{
+    width: 100vw;
+}
+.homepage_6{
+    width: 100vw;
+}
+.homepage_7{
+    width: 100vw;
+}
     
     footer{
         flex-wrap: wrap;
@@ -1082,6 +1230,27 @@ button {
     .testimonial-container{
         width: 400px;
     }
+    .homepage{
+    width: 100vw;
+}
+.homepage_2{
+    width: 100vw;
+}
+.homepage_3{
+    width: 100vw;
+}
+.homepage_4{
+    width: 100vw;
+}
+.homepage_5{
+    width: 100vw;
+}
+.homepage_6{
+    width: 100vw;
+}
+.homepage_7{
+    width: 100vw;
+}
 
     .logo{
         margin-left: -5%;
