@@ -869,24 +869,31 @@ button {
     width: 300px;
    }
     .homepage{
+        width:1026px;
     overflow-x:hidden;
 }
 .homepage_2{
+    width:1026px;
     overflow-x:hidden;
 }
 .homepage_3{
+    width:1026px;
     overflow-x:hidden;
 }
 .homepage_4{
+    width:1026px;
     overflow-x:hidden;
 }
 .homepage_5{
+    width:1026px;
     overflow-x:hidden;
 }
 .homepage_6{
+    width:1026px;
     overflow-x:hidden;
 }
 .homepage_7{
+    width:1026px;
     overflow-x:hidden;
 }
    
@@ -911,6 +918,7 @@ button {
     margin-left: 20px;
 }
     body{
+        width:1026px;
         overflow-x:hidden;
     }
 }
@@ -922,24 +930,31 @@ button {
    }
 
      .homepage{
+         width:853px;
     overflow-x:hidden;
 }
 .homepage_2{
+    width:853px;
     overflow-x:hidden;
 }
 .homepage_3{
+    width:853px;
     overflow-x:hidden;
 }
 .homepage_4{
+    width:853px;
     overflow-x:hidden;
 }
 .homepage_5{
+    width:853px;
     overflow-x:hidden;
 }
 .homepage_6{
+    width:853px;
     overflow-x:hidden;
 }
 .homepage_7{
+    width:853px;
     overflow-x:hidden;
 }
     
@@ -963,34 +978,46 @@ button {
         flex-direction: column;
     }
     body{
+        width:853px;
         overflow-x:hidden;
     }
 }
 
 @media screen and (max-width: 797px) {
+    body{
+        width:797px;
+        overflow-x:hidden;
+    }
    .homepage>h1{
     font-size: 70px;
     margin-left: 20px;
    }
    .homepage{
+       width:797px;
     overflow-x:hidden;
 }
 .homepage_2{
+    width:797px;
     overflow-x:hidden;
 }
 .homepage_3{
+    width:797px;
     overflow-x:hidden;
 }
 .homepage_4{
+    width:797px;
     overflow-x:hidden;
 }
 .homepage_5{
+    width:797px;
     overflow-x:hidden;
 }
 .homepage_6{
+    width:797px;
     overflow-x:hidden;
 }
 .homepage_7{
+     width:797px;
     overflow-x:hidden;
 }
    
@@ -1021,24 +1048,31 @@ button {
    }
 
  .homepage{
+      width:700px;
     overflow-x:hidden;
 }
 .homepage_2{
+     width:700px;
     overflow-x:hidden;
 }
 .homepage_3{
+     width:700px;
     overflow-x:hidden;
 }
 .homepage_4{
+     width:700px;
     overflow-x:hidden;
 }
 .homepage_5{
+     width:700px;
     overflow-x:hidden;
 }
 .homepage_6{
+     width:700px;
     overflow-x:hidden;
 }
 .homepage_7{
+     width:700px;
     overflow-x:hidden;
 }
    #img_1{
@@ -1068,6 +1102,7 @@ button {
         margin-left: -30%;
     }
     body{
+        width:700px;
         overflow-x:hidden;
     }
 }
@@ -1080,24 +1115,31 @@ button {
      display: none;
     }
    .homepage{
+       width:600px;
     overflow-x:hidden;
 }
 .homepage_2{
+    width:600px;
     overflow-x:hidden;
 }
 .homepage_3{
+    width:600px;
     overflow-x:hidden;
 }
 .homepage_4{
+    width:600px;
     overflow-x:hidden;
 }
 .homepage_5{
+    width:600px;
     overflow-x:hidden;
 }
 .homepage_6{
+    width:600px;
     overflow-x:hidden;
 }
 .homepage_7{
+    width:600px;
     overflow-x:hidden;
 }
  
@@ -1113,6 +1155,7 @@ button {
         width: 600px;
     }
     body{
+        width:600px;
         overflow-x:hidden;
     }
     
@@ -1132,24 +1175,31 @@ button {
     }
 
   .homepage{
+      width:650px;
     overflow-x:hidden;
 }
 .homepage_2{
+    width:650px;
     overflow-x:hidden;
 }
 .homepage_3{
+    width:650px;
     overflow-x:hidden;
 }
 .homepage_4{
+    width:650px;
     overflow-x:hidden;
 }
 .homepage_5{
+    width:650px;
     overflow-x:hidden;
 }
 .homepage_6{
+    width:650px;
     overflow-x:hidden;
 }
 .homepage_7{
+    width:650px;
     overflow-x:hidden;
 }
     footer{
@@ -1159,6 +1209,7 @@ button {
         justify-content: start;
     }
     body{
+        width:650px;
         overflow-x:hidden;
     }
  }
@@ -1179,24 +1230,31 @@ button {
         width: 490px;
     }
     .homepage{
+        width:480px;
     overflow-x:hidden;
 }
 .homepage_2{
+    width:480px;
     overflow-x:hidden;
 }
 .homepage_3{
+    width:480px;
     overflow-x:hidden;
 }
 .homepage_4{
+    width:480px;
     overflow-x:hidden;
 }
 .homepage_5{
+    width:480px;
     overflow-x:hidden;
 }
 .homepage_6{
+    width:480px;
     overflow-x:hidden;
 }
 .homepage_7{
+    width:480px;
     overflow-x:hidden;
 }
     
@@ -1206,6 +1264,7 @@ button {
         justify-content: start;
     }
     body{
+        width:480px;
         overflow-x:hidden;
     }
     
