@@ -231,6 +231,7 @@ nav>ol>li>button {
 
 
 .homepage_2 {
+    width: 100vw;
     background: var(--bgcolor);
 }
 
@@ -332,6 +333,7 @@ nav>ol>li>button {
 /* homepage=== 3--- client */
 
 .homepage_3 {
+    width: 100vw;
     background: var(--bgcolor);
 }
 
@@ -375,6 +377,7 @@ nav>ol>li>button {
 
 
 .homepage_4 {
+    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -462,6 +465,7 @@ nav>ol>li>button {
 
 
 .homepage_5 {
+    width: 100vw;
     background-color: var(--bgcolor);
     display: flex;
     flex-wrap: wrap;
@@ -498,6 +502,7 @@ nav>ol>li>button {
 /* homepage---6--provide */
 
 .homepage_6 {
+    width: 100vw;
     background: var(--bgcolor);
     display: flex;
     margin-left: 10%;
@@ -519,6 +524,7 @@ nav>ol>li>button {
 
 
 .homepage_7 {
+    width: 100vw;
     background-color: var(--bgcolor);
     display: flex;
     align-items: center;
@@ -565,6 +571,7 @@ nav>ol>li>button {
 /* footer */
 
 footer {
+    width: 100vw;
     display: flex;
     background: #070707;
     align-items: center;
