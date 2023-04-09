@@ -887,6 +887,9 @@ button {
    .left_content {
     margin-left: 20px;
 }
+    body{
+        overflow-x:hidden;
+    }
 }
 
 @media screen and (max-width: 853px) {
@@ -913,6 +916,9 @@ button {
         align-items: center;
         gap: 20px;
         flex-direction: column;
+    }
+    body{
+        overflow-x:hidden;
     }
 }
 
@@ -942,6 +948,9 @@ button {
    .testimonial-container{
     width: 750px;
    }
+    body{
+        overflow-x:hidden;
+    }
   
 }
 @media screen and (max-width: 700px) {
@@ -981,6 +990,9 @@ button {
     .logo{
         margin-left: -30%;
     }
+    body{
+        overflow-x:hidden;
+    }
 }
 
 
@@ -1001,6 +1013,9 @@ button {
 
     .testimonial-container{
         width: 600px;
+    }
+    body{
+        overflow-x:hidden;
     }
     
  }
@@ -1024,7 +1039,9 @@ button {
         height: 550px;
         justify-content: start;
     }
-    
+    body{
+        overflow-x:hidden;
+    }
  }
 @media screen and (max-width: 480px) {
     .homepage>h1{
@@ -1048,9 +1065,16 @@ button {
         height: 550px;
         justify-content: start;
     }
+    body{
+        overflow-x:hidden;
+    }
     
 }
 @media screen and (max-width: 433px) {
+    
+    body{
+        overflow-x:hidden;
+    }
     .homepage>h1{
         font-size: 35px;
         margin-left: 20px;
